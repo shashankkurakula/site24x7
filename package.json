@@ -2,7 +2,7 @@
   "name": "site24x7",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shashankkurakula.github.io/site24x7/",
+  "homepage": "https://shashankkurakula.github.io/site24x7",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
